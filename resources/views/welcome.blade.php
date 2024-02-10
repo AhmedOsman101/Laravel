@@ -13,12 +13,13 @@
 
         <!-- Styles -->
         <link href="{{ asset("css/app.css") }}" rel="stylesheet">
+        <link href="{{ asset("css/normalize.css") }}" rel="stylesheet">
     </head>
 
     <body class="antialiased">
         <div
             class="bg-dots-darker dark:bg-dots-darker relative min-h-screen bg-gray-100 bg-center selection:bg-red-500 selection:text-white dark:bg-gray-900 sm:flex sm:items-center sm:justify-center">
-            
+
         </div>
     </body>
 
